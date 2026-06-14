@@ -16,4 +16,8 @@ Features:
 3. Update, finds whatever packages needs updating and updates them. Command: sudo spkg update brave-bin OR sudo spkg update all
 4. Remove, removes packages. BE SPECIFIC! Command: sudo spkg remove brave-bin
 
+Run this in a terminal to install spkg on your Arch-based system:
+
+curl -fsSL https://raw.githubusercontent.com/thesuepster/spkg/main/install.sh | sudo bash
+
 Feedback is greatly appreciated.
