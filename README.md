@@ -1,3 +1,8 @@
+OLD VERSION OF README.md PLEASE DO NOT INSTALL OR DO ANYTHING RIGHT NOW
+
+
+
+
 READ BEFORE INSTALLING:
 If you would like to install this packager, run this command in a terminal on your Arch-Based system, not any other way:
 
